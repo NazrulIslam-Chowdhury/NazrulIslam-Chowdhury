@@ -1,6 +1,6 @@
 ![A passionate Web developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQEljSQxrlvePQ/profile-displaybackgroundimage-shrink_350_1400/0/1673341305762?e=1687392000&v=beta&t=C_DjJaEu0WASVaiEOaLHifsa-SOTDLE1J6QVnzabLH0)
 
-# Hi there 👋, my name is Nazrul Islam Chowdhury
+# Hi there 👋, I am Nazrul Islam Chowdhury
 #### A passionate Web developer from Bangladesh
 
 
