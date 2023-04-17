@@ -17,6 +17,7 @@ Skills: JAVASCRIPT/ REACT / JS / HTML / CSS/BOOSTRAP/TAILWIND/NODE JS/EXPRESS JS
 - 💬 Ask me about JAVASCRIPT/REACT/TAILWIND 
 - 📫 How to reach me: nazrulislam66188@gmail.com 
 
+<img src='https://www.lambdatest.com/resources/images/news24.gif' alt='coding gif'/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NazrulIslam-Chowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazrul-islam-chowdhury//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008271873050)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/naz_rul.rahi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19968742/nazrul-islam-rahi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-50d3e.web.app)  
 
