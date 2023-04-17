@@ -1,7 +1,7 @@
 ![A passionate frontend developer from Bangladesh](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)
 
 # Hi there 👋, I am Nazrul Islam Chowdhury
-#### A passionate Web developer from Bangladesh
+## A passionate Web developer from Bangladesh
 
 
 Nelson Mandela once said,
