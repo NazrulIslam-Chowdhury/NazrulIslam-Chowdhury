@@ -34,7 +34,7 @@ Skills: <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NazrulIslam-Chowdhury&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/NazrulIslam-Chowdhury&theme=radical)  
+![GitHub metrics](https://metrics.lecoq.io/NazrulIslam-Chowdhury)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=NazrulIslam-Chowdhury&theme=radical)  
 
