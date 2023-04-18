@@ -30,7 +30,7 @@ Skills: <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrulIslam-Chowdhury)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrulIslam-Chowdhury&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrulIslam-Chowdhury&show_icons=true&count_private=true@theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NazrulIslam-Chowdhury)  
 
